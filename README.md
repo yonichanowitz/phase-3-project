@@ -97,7 +97,7 @@ between each step I checked each model's F1 score and type I and type II errors,
    macro avg       0.84      0.77      0.76     13129
 weighted avg       0.84      0.77      0.76     13129
 
-<img src='/classification_report_1.png'>
+<img src='/classificatio_report_1.png'>
 
 # Testng Models
 in addition to a train and test set, being that teh data I was using was **so incredibly large** I used data from an additional csv file, to validate my validation
